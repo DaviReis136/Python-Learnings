@@ -1,4 +1,4 @@
-nome_arquivo = input()
+nome_arquivo = input() 
 arquivo = open(nome_arquivo)
 
 palavras = []
