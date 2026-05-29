@@ -1,4 +1,4 @@
-#abrindo o arquivo
+#open file and capitalize the text.
 try:
     fname = input("Enter file name: ")
     fh = open(fname)
@@ -8,6 +8,6 @@ except:
 
 for fha in fh:
     fhu = fha.rstrip()
-    #printando maiusculo
+    #print capitalize
     print(fhu.upper()) 
-    #Olha tem que que fica fhu.upper() porque upper e função
+  
