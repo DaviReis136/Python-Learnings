@@ -1,3 +1,5 @@
+#Import URL request. Open a web page and select a Link (Name)/position, then repeat the process a defined number of times until the last name is retrieved on the final page.
+
 import urllib.request
 from bs4 import BeautifulSoup
 
