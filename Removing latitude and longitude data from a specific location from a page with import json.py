@@ -1,3 +1,5 @@
+#Removing latitude and longitude data from a specific location from a page with import json
+
 import urllib.request, urllib.parse
 import json, ssl
 
