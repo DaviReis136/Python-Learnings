@@ -1,3 +1,5 @@
+#Import URL request. Open a web page and use a parameter to find the data you want.
+
 import urllib.request, urllib.parse
 import json, ssl
 
