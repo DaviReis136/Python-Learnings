@@ -1,3 +1,5 @@
+#Retrieving data from a web page using import JSON.
+
 import urllib.request
 import json
 
